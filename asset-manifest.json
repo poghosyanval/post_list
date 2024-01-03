@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/post_list/static/css/main.c3e8ff7c.css",
+    "main.js": "/post_list/static/js/main.a45720ec.js",
+    "index.html": "/post_list/index.html",
+    "main.c3e8ff7c.css.map": "/post_list/static/css/main.c3e8ff7c.css.map",
+    "main.a45720ec.js.map": "/post_list/static/js/main.a45720ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3e8ff7c.css",
+    "static/js/main.a45720ec.js"
+  ]
+}
